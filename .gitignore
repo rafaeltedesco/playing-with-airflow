@@ -1,3 +1,5 @@
 pgdata
-.envs/*.env
+.envs
 .DS_Store
+redis
+__pycache__

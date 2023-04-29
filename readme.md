@@ -7,3 +7,5 @@ Infraestrutura inicial configurada com Docker Compose para disponibilizar os seg
 - Airflow Scheduler
 
 Para utilizar, altere os dados das variáveis de ambiente disponíveis na pasta .envs e remova o .example do final do arquivo
+
+Faça o mesmo para a pasta .envs_example. Renomeie para apenas .envs
